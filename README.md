@@ -7,3 +7,10 @@ This archive contains software found all around the network, mainly from those s
 - https://winworldpc.com
 
 If you have **any software** please open an issue and I'll find a way to get the files on the mirror.
+
+### Listings
+In the [listings](./tree) folder, an updated version of the tree will be posted.
+[Permalink](./tree/latest.txt) to the latest tree.
+
+### Tools
+In the [tools](./tools) folder, several scripts to automate basic tasks will be available. 
