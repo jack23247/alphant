@@ -1,4 +1,5 @@
-# AlphaNT Software Preservation Project
+<img src="https://raw.githubusercontent.com/jack23247/alphant/master/media/AlphaNT_Logo.png" alt="AlphaNT Logo" width="300" height="150">
+
 #### [AlphaNT Software Archive - Software for Windows NT on Alpha CPUs](https://mega.nz/#F!RyAxwAzQ!K1vjCrm7nd_lwNqlE-bU9Q)
 A mirror for any kind of Windows NT for Alpha CPUs software available. 
 This archive contains software found all around the network, mainly from those sites:
@@ -14,3 +15,6 @@ Here is a [permalink](https://raw.githubusercontent.com/jack23247/alphant/0fc642
 
 ### Tools
 In the [tools](./tools) folder, several scripts to automate basic tasks will be available. 
+
+____
+<p align="center"><img src="https://raw.githubusercontent.com/jack23247/alphant/master/media/AlphaNT_Banner.png" alt="AlphaNT Banner" width="500" height="125"></p>
