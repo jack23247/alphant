@@ -11,7 +11,7 @@ If you have **any software** please open an issue and I'll find a way to get the
 
 ### Listings
 In the [listings](./tree) folder, an updated version of the tree will be posted.
-Here is a [permalink](https://raw.githubusercontent.com/jack23247/alphant/0fc64216a0ab7676219e897777960a1d2afba767/tree/latest.txt) to the latest tree.
+Here is a [link](https://raw.githubusercontent.com/jack23247/alphant/master/tree/latest.txt) to the latest tree.
 
 ### Tools
 In the [tools](./tools) folder, several scripts to automate basic tasks will be available. 
