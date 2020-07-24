@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/jack23247/alphant/master/media/AlphaNT_Logo.png" alt="AlphaNT Logo" width="300" height="150">
 
 > ***NOTICE***
-> AlphaNT is in the process of being reorganized and transfered to Archive.org
-> Sincere thanks to the few who keep Alpha systems running to this day.
+>
+> AlphaNT is in the process of being reorganized and transfered to Archive.org: sincere thanks to the few who keep Alpha systems running to this day.
 
 #### [AlphaNT Software Archive - Software for Windows NT on Alpha CPUs](https://mega.nz/#F!RyAxwAzQ!K1vjCrm7nd_lwNqlE-bU9Q)
 A mirror for any kind of Windows NT for Alpha CPUs software available. 
